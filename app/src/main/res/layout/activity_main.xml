@@ -17,5 +17,5 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/list"/>
+        android:id="@android:id/list"/>
 </RelativeLayout>
